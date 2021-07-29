@@ -1,15 +1,3 @@
-D:\HyukJu\2019\CloudStation\program\PickROI\PickROI\bin\Release\PickROI.exe.config
-D:\HyukJu\2019\CloudStation\program\PickROI\PickROI\bin\Release\PickROI.exe
-D:\HyukJu\2019\CloudStation\program\PickROI\PickROI\bin\Release\PickROI.pdb
-D:\HyukJu\2019\CloudStation\program\PickROI\PickROI\obj\Release\PickROI.Form1.resources
-D:\HyukJu\2019\CloudStation\program\PickROI\PickROI\obj\Release\PickROI.LineProfile.resources
-D:\HyukJu\2019\CloudStation\program\PickROI\PickROI\obj\Release\PickROI.ImageViewer.resources
-D:\HyukJu\2019\CloudStation\program\PickROI\PickROI\obj\Release\PickROI.HistogramChart.resources
-D:\HyukJu\2019\CloudStation\program\PickROI\PickROI\obj\Release\PickROI.ColorSpaceChart.resources
-D:\HyukJu\2019\CloudStation\program\PickROI\PickROI\obj\Release\PickROI.Properties.Resources.resources
-D:\HyukJu\2019\CloudStation\program\PickROI\PickROI\obj\Release\PickROI.csproj.GenerateResource.cache
-D:\HyukJu\2019\CloudStation\program\PickROI\PickROI\obj\Release\PickROI.exe
-D:\HyukJu\2019\CloudStation\program\PickROI\PickROI\obj\Release\PickROI.pdb
 C:\Users\hyukj\Desktop\projects\PickROI\PickROI\bin\Release\PickROI.exe.config
 C:\Users\hyukj\Desktop\projects\PickROI\PickROI\bin\Release\PickROI.exe
 C:\Users\hyukj\Desktop\projects\PickROI\PickROI\bin\Release\PickROI.pdb
