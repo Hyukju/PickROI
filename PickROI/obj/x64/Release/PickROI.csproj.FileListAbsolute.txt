@@ -1,0 +1,14 @@
+C:\Users\hyukj\Desktop\projects\PickROI\PickROI\bin\x64\Release\PickROI.exe.config
+C:\Users\hyukj\Desktop\projects\PickROI\PickROI\bin\x64\Release\PickROI.exe
+C:\Users\hyukj\Desktop\projects\PickROI\PickROI\bin\x64\Release\PickROI.pdb
+C:\Users\hyukj\Desktop\projects\PickROI\PickROI\obj\x64\Release\PickROI.csproj.AssemblyReference.cache
+C:\Users\hyukj\Desktop\projects\PickROI\PickROI\obj\x64\Release\PickROI.Form1.resources
+C:\Users\hyukj\Desktop\projects\PickROI\PickROI\obj\x64\Release\PickROI.LineProfile.resources
+C:\Users\hyukj\Desktop\projects\PickROI\PickROI\obj\x64\Release\PickROI.ImageViewer.resources
+C:\Users\hyukj\Desktop\projects\PickROI\PickROI\obj\x64\Release\PickROI.HistogramChart.resources
+C:\Users\hyukj\Desktop\projects\PickROI\PickROI\obj\x64\Release\PickROI.ColorSpaceChart.resources
+C:\Users\hyukj\Desktop\projects\PickROI\PickROI\obj\x64\Release\PickROI.Properties.Resources.resources
+C:\Users\hyukj\Desktop\projects\PickROI\PickROI\obj\x64\Release\PickROI.csproj.GenerateResource.cache
+C:\Users\hyukj\Desktop\projects\PickROI\PickROI\obj\x64\Release\PickROI.csproj.CoreCompileInputs.cache
+C:\Users\hyukj\Desktop\projects\PickROI\PickROI\obj\x64\Release\PickROI.exe
+C:\Users\hyukj\Desktop\projects\PickROI\PickROI\obj\x64\Release\PickROI.pdb
