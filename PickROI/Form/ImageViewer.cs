@@ -27,7 +27,7 @@ namespace PickROI
         private enum CURRENT_MODE { MOVE_IMAGE, ADD_ROI, ADD_LINE, SELECT_OBJ, NONE };
         private enum COLOR_CHANNEL { RGB, HSV, YCbCr };
         private enum OBJECT_TYPE { ROI, LINE, NONE };
-        public enum IMAGE_TYPE { JPG, BMP24, BMP32, TIFF, PNG }
+        public enum IMAGE_TYPE { PNG, JPG, BMP24, BMP32, TIFF }
         public enum LOADING_TYPE { NONE, FILE, CLIPBOARD }
 
         List<string> _imageFileList;
